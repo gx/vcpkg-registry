@@ -1,0 +1,8 @@
+{
+  "default": {
+    "qt5-webengine": {
+      "baseline": "5.15.7",
+      "port-version": 0
+    }
+  }
+}
