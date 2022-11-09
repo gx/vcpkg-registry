@@ -3,6 +3,10 @@
     "qt5-webengine": {
       "baseline": "5.15.7",
       "port-version": 0
+    },
+    "qt5-qsqlcipher": {
+      "baseline": "5.15",
+      "port-version": 0
     }
   }
 }
