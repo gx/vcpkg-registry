@@ -4,7 +4,7 @@
   "description": "Qt5 SQL driver plugin for SQLCipher",
   "dependencies": [
     {
-      "name": "qtbase",
+      "name": "qt5-base",
       "default-features": false
     },
     "sqlcipher"
