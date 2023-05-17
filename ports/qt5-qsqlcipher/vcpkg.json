@@ -1,6 +1,7 @@
 {
   "name": "qt5-qsqlcipher",
   "version": "5.15",
+  "port-version": 1,
   "description": "Qt5 SQL driver plugin for SQLCipher",
   "dependencies": [
     {

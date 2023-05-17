@@ -6,7 +6,7 @@
     },
     "qt5-qsqlcipher": {
       "baseline": "5.15",
-      "port-version": 0
+      "port-version": 1
     },
     "osg": {
       "baseline": "3.6.5",
